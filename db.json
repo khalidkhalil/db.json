@@ -1,0 +1,246 @@
+{
+"menu_version": "1",
+"menu_size": 30,
+"menus": [
+{
+"id": 1,
+"name": "cecfe3c7ca20cddfe6e3edc9",
+"parent_id": 0,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 2,
+"name": "ddc7cae6d1c920dfe5d1c8c7c1",
+"parent_id": 1,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 3,
+"name": "cce4e6c820c7e1dec7e5d1c9",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 17,
+"damen_service": "2"
+},
+{
+"id": 4,
+"name": "d4e3c7e120c7e1dec7e5d1c9",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 18,
+"damen_service": "2"
+},
+{
+"id": 5,
+"name": "cce4e6c820c7e1cfe1cac7",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 19,
+"damen_service": "2"
+},
+{
+"id": 6,
+"name": "d4e3c7e120c7e1cfe1cac7",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 20,
+"damen_service": "2"
+},
+{
+"id": 7,
+"name": "e3d5d120c7e1dae1edc7",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 21,
+"damen_service": "2"
+},
+{
+"id": 8,
+"name": "20c7e1c7d3dfe4cfd1edc9",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 22,
+"damen_service": "2"
+},
+{
+"id": 9,
+"name": "20c7e1dee4c7c9",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 23,
+"damen_service": "2"
+},
+{
+"id": 10,
+"name": "20e3d5d120c7e1e6d3d8ed",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 24,
+"damen_service": "2"
+},
+{
+"id": 11,
+"name": "c7e1c8cdedd1c9",
+"parent_id": 2,
+"flag": "L",
+"damen_code": 25,
+"damen_service": "2"
+},
+{
+"id": 12,
+"name": "d4cde420dfc7d1ca20dfe5d1c8c7c1",
+"parent_id": 1,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 13,
+"name": "cce4e6c820c7e1dec7e5d1c9",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 8,
+"damen_service": "1"
+},
+{
+"id": 14,
+"name": "d4e3c7e120c7e1dec7e5d1c9",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 16,
+"damen_service": "1"
+},
+{
+"id": 15,
+"name": "cce4e6c820c7e1cfe1cac7",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 11,
+"damen_service": "1"
+},
+{
+"id": 16,
+"name": "d4e3c7e120c7e1cfe1cac7",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 14,
+"damen_service": "1"
+},
+{
+"id": 17,
+"name": "e3d5d120c7e1dae1edc7",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 12,
+"damen_service": "1"
+},
+{
+"id": 18,
+"name": "20c7e1c7d3dfe4cfd1edc9",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 13,
+"damen_service": "1"
+},
+{
+"id": 19,
+"name": "20c7e1dee4c7c9",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 15,
+"damen_service": "1"
+},
+{
+"id": 20,
+"name": "20e3d5d120c7e1e6d3d8ed",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 9,
+"damen_service": "1"
+},
+{
+"id": 21,
+"name": "c7e1c8cdedd1c9",
+"parent_id": 12,
+"flag": "L",
+"damen_code": 10,
+"damen_service": "1"
+},
+{
+"id": 22,
+"name": "ddc7cae6d1c920e3edc7e5",
+"parent_id": 1,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 23,
+"name": "c7e1c7d3dfe4cfd1edc9",
+"parent_id": 22,
+"flag": "L",
+"damen_code": 1,
+"damen_service": "4"
+},
+{
+"id": 24,
+"name": "d3ed20c7e420c7ed",
+"parent_id": 0,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 25,
+"name": "c7ed20c7d120caed",
+"parent_id": 24,
+"flag": "L",
+"damen_code": 2,
+"damen_service": "5"
+},
+{
+"id": 26,
+"name": "c8ed20c7e420d3c8e6d1ca",
+"parent_id": 24,
+"flag": "L",
+"damen_code": 3,
+"damen_service": "5"
+},
+{
+"id": 27,
+"name": "e3cfdde6dac7ca20e3c8c7d4d1c9",
+"parent_id": 24,
+"flag": "L",
+"damen_code": 4,
+"damen_service": "5"
+},
+{
+"id": 28,
+"name": "cac8d1dac7ca",
+"parent_id": 0,
+"flag": "M",
+"damen_code": 0,
+"damen_service": "0"
+},
+{
+"id": 29,
+"name": "d2dfc7c9",
+"parent_id": 28,
+"flag": "L",
+"damen_code": 5,
+"damen_service": "3"
+},
+{
+"id": 30,
+"name": "d5cfdec9",
+"parent_id": 28,
+"flag": "L",
+"damen_code": 6,
+"damen_service": "3"
+}
+]
+}
